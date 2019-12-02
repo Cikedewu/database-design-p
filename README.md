@@ -1,6 +1,15 @@
-ER model. Based on oracle.
+This repository is a school project for practising database design. Use SQL as main database. 
 
--Project Description
+## Dependence
+
+Install Oracle.
+PS: Suggest Use Visual Studio Code as and IDE for this project.
+
+## Import Schema to Oracle
+
+User please import the schema sql file.
+
+## Project Description
 
 Dallas Area Road Transport or DART would like one relational database to store the information about their bus transportation system to be able to carry out their work in an organized way.
 
